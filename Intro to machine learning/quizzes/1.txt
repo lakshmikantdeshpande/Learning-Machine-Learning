@@ -1,0 +1,8 @@
+Q. Which ones are the examples of supervised classification?
+
+1. from an album of tagged photos, recognize someone in a picture
+2. analyze bank data for weird looking transactions, and flag those for fraud
+3. given someone's music choices, and a bunch of features of that music (tempo, genre), recommend a new song 
+4. cluster udacity students into types based on learning styles.
+
+A: 1, 3 are examples of supervised classification, whereas 2, 4 are examples of unsupervised classification
