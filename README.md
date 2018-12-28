@@ -1,2 +1,3 @@
 # Learning-Machine-Learning
-Self-explanatory :P
+
+Exploring the world of machine learning and artificial intelligence
