@@ -1,4 +1,4 @@
-mystr = "MadaM".lower()
+mystr = "MadaM"
 revmystr = reversed(mystr)
 
 if list(revmystr) == list(mystr):
